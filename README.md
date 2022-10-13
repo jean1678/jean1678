@@ -7,7 +7,7 @@ Sobre Jean:
 - 🔭 Atualmnte estudando font e programação usando c# 
 - 🌱 Gosto bastante de front
 - 👯 Procuro evoluir profissionalmente no back end 
-- 🐱‍👤 Sempre bem participativo e colaborativo com a equipe
+- 🧠 Sempre bem participativo e colaborativo com a equipe
 - 📫 Veja minhas redes sociais
 
 
