@@ -16,6 +16,12 @@ Sobre Jean:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean1678&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+ ##
+div
+  a href=https://www.instagram.com/rjeanitz/ target=_blankimg src=httpsimg.shields.iobadge-Instagram-%23E4405Fstyle=for-the-badge&logo=instagram&logoColor=white target=_blanka
+    a href = mailtojean1678@gmail.comimg src=httpsimg.shields.iobadge-Gmail-%23333style=for-the-badge&logo=gmail&logoColor=white target=_blanka
+  a href=https://www.linkedin.com/in/jean-rodrigues-538904/ target=_blankimg src=httpsimg.shields.iobadge-LinkedIn-%230077B5style=for-the-badge&logo=linkedin&logoColor=white target=_blanka
 
 
 
