@@ -1,5 +1,5 @@
 ### Olá Amigos 👋
-### Me chamo Jean Rodrigues estudante para programação WEB, HTML, CSS e JAVA SCRIP 
+### Me chamo Jean Rodrigues estudante de programação WEB, HTML, CSS e JAVA SCRIP 
 
 
 Sobre Jean:
